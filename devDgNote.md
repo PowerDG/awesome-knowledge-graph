@@ -688,7 +688,7 @@ Facebook 于 2013 年推出了 Graph Search 产品，其核心技术就是通过
 
 ## References
 
-
+### Info
 
 知识图谱技术与应用调研 - Chaves的文章 - 知乎 https://zhuanlan.zhihu.com/p/201213925
 
@@ -705,3 +705,20 @@ Facebook 于 2013 年推出了 Graph Search 产品，其核心技术就是通过
 知识图谱关键技术与应用（特别篇）达观经验与案例 - 陈运文的文章 - 知乎 https://zhuanlan.zhihu.com/p/43271002
 
 一文详解达观数据知识图谱技术与应用 - 陈运文的文章 - 知乎 https://zhuanlan.zhihu.com/p/44935289
+
+
+
+### Todo
+
+什么是知识图谱? - 顾鹏的文章 - 知乎 https://zhuanlan.zhihu.com/p/71128505
+
+详细的知识图谱构建流程 - 徐超的文章 - 知乎 https://zhuanlan.zhihu.com/p/44123660
+
+
+
+
+
+### 系列
+
+领域综述 | 知识图谱概论（一） - 灰灰的文章 - 知乎 https://zhuanlan.zhihu.com/p/64080344
+
