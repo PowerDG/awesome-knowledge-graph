@@ -24,7 +24,7 @@
 知识图谱使机器语言认知成为可能。机器想要认知语言、理解语言，**需要背景知识的支持**。而知识图谱富含大量的实体及概念间的关系，可以作为背景知识来支撑机器理解自然语言。
 
 知识图谱使可解释人工智能成为可能。在人工智能发展的任何阶段，我们都需要**事物的可解释性**，现在的深度学习也常因为缺少可解释性受人诟病。而知识图谱中包含的概念、属性、关系是天然可拿来做解释的。 
- 
+
 
 
 
@@ -1007,6 +1007,20 @@ Facebook 于 2013 年推出了 Graph Search 产品，其核心技术就是通过
 
 一文详解达观数据知识图谱技术与应用 - 陈运文的文章 - 知乎 https://zhuanlan.zhihu.com/p/44935289
 
+### **References**
+
+1. 知识图谱技术综述，徐增林等，电子科技大学学报，[http://ir.sdu.edu.cn/~zhuminchen/KG/xuzenglin2016.pdf](https://link.zhihu.com/?target=http%3A//ir.sdu.edu.cn/~zhuminchen/KG/xuzenglin2016.pdf)
+2. 知乎文章：为什么需要知识图谱？什么是知识图谱？——KG的前世今生，作者：SimmerChan，https://zhuanlan.zhihu.com/p/31726910
+3. 知乎文章：把知识变成图谱一共需要花几步？89页全网最全清华知识图谱报告，作者：智东西，https://zhuanlan.zhihu.com/p/56903119
+4. 知乎文章：知识图谱-从入门到跑路（1），作者：cavities，https://zhuanlan.zhihu.com/p/62824358
+5. 知乎答案：知识图谱的构建流程？，作者：Hooke，https://www.zhihu.com/question/299907037/answer/519394870
+6. 知乎答案：知识图谱的构建流程？ ，作者： 陈运文，https://www.zhihu.com/question/299907037/answer/537482952
+7. 知识图谱的应用 - 李文哲的文章 - 知乎，https://zhuanlan.zhihu.com/p/20394260
+8. 鲍捷：知识图谱在金融领域的发展与应用 - 鲍捷的文章 - 知乎，https://zhuanlan.zhihu.com/p/27995887
+9. 知识图谱的技术与应用（18版） - 李文哲的文章 - 知乎，https://zhuanlan.zhihu.com/p/38056557
+
+
+
 
 
 ### Todo
@@ -1023,9 +1037,11 @@ Facebook 于 2013 年推出了 Graph Search 产品，其核心技术就是通过
 
 (《知识图谱标准化白皮书(2019)》)
 
-
-
-### 系列
-
 领域综述 | 知识图谱概论（一） - 灰灰的文章 - 知乎 https://zhuanlan.zhihu.com/p/64080344
+
+
+
+ 什么是知识图谱? - 顾鹏的文章 - 知乎 https://zhuanlan.zhihu.com/p/71128505系列
+
+
 
